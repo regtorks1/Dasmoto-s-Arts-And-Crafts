@@ -1,0 +1,50 @@
+.logo {
+    background-image: url("img/pattern1.webp")
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.first_head {
+    background-color: mediumspringgreen;
+}
+
+.first_head p {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.second_head {
+    background-color: lightcoral;
+}
+
+.second_head p {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.third_head {
+    background-color: skyblue;
+}
+
+.third_head p {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
